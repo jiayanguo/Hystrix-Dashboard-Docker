@@ -1,1 +1,1 @@
-###Based on lastest hystrix-dashboard code,create an docker-image.
+###Based on latest hystrix-dashboard code,created an docker-image.
