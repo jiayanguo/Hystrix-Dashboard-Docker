@@ -9,3 +9,6 @@ $ docker run -d -p 8080:8080 --name hystrix-dashboard hystrix-dashboard:1.6.0
 
 ### Stop docker container
 $ docker stop hystrix-dashboard.s
+
+###Find docker image at:
+https://hub.docker.com/r/jiayan/hystrix-dashboard/
