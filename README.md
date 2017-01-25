@@ -2,6 +2,7 @@
 
 ###Create docker images:
 $ cd hystrix-docker
+
 $ docker build -t hystrix-dashboard:1.6.0 .
 
 ### Run docker
